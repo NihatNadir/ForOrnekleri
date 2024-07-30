@@ -7,7 +7,7 @@ Pratik uygulama 5 aşamadan oluşuyor. Aşağıdaki alıştırmaları for kullan
 - 4 -> 50 ile 150 arasındaki sayıların toplamını ekrana yazdırınız.
 - 5 -> 1 ile 120 arasındaki tek ve çift sayıların toplamlarını ayrı ayrı ekrana yazdırınız.
 
-#ForExamples
+# ForExamples
 Practical application consists of 5 stages. Do the following exercises using for.
 
 - 1 -> Say "I believe in myself, I can handle this software issue!" 10 times on the console screen. print it.
