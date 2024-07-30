@@ -10,7 +10,7 @@ Pratik uygulama 5 aşamadan oluşuyor. Aşağıdaki alıştırmaları for kullan
 # ForExamples
 Practical application consists of 5 stages. Do the following exercises using for.
 
-- 1 -> Say "I believe in myself, I can handle this software issue!" 10 times on the console screen. print it.
+- 1 -> Print "I believe in myself, I can handle this software issue!" 10 times on the console screen. print it.
 - 2 -> Print the numbers 1 to 20 on the console screen.
 - 3 -> Print even numbers between 1 and 20 on the console screen.
 - 4 -> Print the sum of the numbers between 50 and 150 on the screen.
